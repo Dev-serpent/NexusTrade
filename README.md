@@ -26,13 +26,6 @@ Welcome! Follow these steps to run the NexusTrade AutoTyper application:
 - Install the required packages by running:
   pip install -r requirements.txt
 
-### What's in requirements.txt
-This file includes:
-keyboard
-pyautogui
-pygetwindow
-
-These libraries allow the app to simulate key presses and interact with specific application windows.
 
 ---
 
