@@ -38,7 +38,9 @@ class App:
         self.listener_thread.start()
 
     def listen_toggle_key(self):
+
         while True:
+            
             selected_key = self.fkey_var.get().lower()
             if selected_key:
                 keyboard.wait(selected_key)
