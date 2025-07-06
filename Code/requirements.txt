@@ -1,3 +1,5 @@
 keyboard
-pywin32 winshell
-pyautogui pygetwindow
+pywin32 
+winshell
+pyautogui 
+pygetwindow
